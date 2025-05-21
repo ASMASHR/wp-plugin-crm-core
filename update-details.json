@@ -4,6 +4,8 @@
   "download_url": "https://github.com/ASMASHR/wp-plugin-crm-core/raw/main/synexta-crm-core.zip",
   "homepage": "https://synexta.fr/",
   "sections": {
-    "description": "Gestion centralisée des dépenses, factures, utilisateurs et événements. Ce plugin CRM tout-en-un permet de suivre vos transactions, organiser vos événements, gérer vos contacts et collaborateurs, et conserver un historique complet des activités. Conçu pour optimiser la gestion de votre entreprise directement depuis WordPress.\n\nAjout d'une nouvelle fonctionnalité de mise à jour automatique."
-  }
+  "description": "Gestion centralisée des dépenses, factures, utilisateurs et événements. Ce plugin CRM tout-en-un permet de suivre vos transactions, organiser vos événements, gérer vos contacts et collaborateurs, et conserver un historique complet des activités. Conçu pour optimiser la gestion de votre entreprise directement depuis WordPress.",
+  "changelog": "### Version 1.9\n- 🚀 Ajout de la mise à jour automatique du plugin via GitHub.\n- 🔐 Améliorations de la sécurité générale.\n- 🛠️ Optimisations internes pour de meilleures performances.\n\n👉 [Voir le dépôt GitHub](https://github.com/ASMASHR/wp-plugin-crm-core)",
+  "installation": "1. Téléchargez le plugin\n2. Décompressez l'archive si nécessaire\n3. Uploadez le dossier dans `wp-content/plugins/`\n4. Activez-le via le menu Extensions dans WordPress"
+}
 }
