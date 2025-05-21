@@ -1,0 +1,14 @@
+{
+  "name": "Synexta CRM Core Plugin",
+  "Plugin Name": "Synexta CRM Core Plugin",
+  "Description": "Gestion centralisée des dépenses, factures, utilisateurs et événements. Ce plugin CRM tout-en-un permet de suivre vos transactions, organiser vos événements, gérer vos contacts et collaborateurs, et conserver un historique complet des activités. Conçu pour optimiser la gestion de votre entreprise directement depuis WordPress.",
+  "Last Updated": "21 mai 2025",
+  "Version": "1.9",
+  "Author URI": "https://synexta.com/",
+  "Plugin URI": "https://synexta.com/",
+  "slug": "synexta-crm-core",
+  "download_url": "https://github.com/ASMASHR/wp-plugin-crm-core/raw/main/synexta-crm-core.zip",
+  "sections": {
+    "description": "Ajout d'une nouvelle fonctionnalité de mise à jour automatique."
+  }
+}
